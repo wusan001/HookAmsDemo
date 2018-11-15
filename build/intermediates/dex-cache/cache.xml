@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_338386ea7d2d99188e5e7b06c3f126b987812d92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_1c59b83a1dd2056153fb61b95b11b51c0566f13c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_0c302ab4068872c7815cf846df2f0ffd484271db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_8e18b50926580a6d5dc820613f0ac81adadbd255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_539800d8044df85e59575a142fc4d36a516ce881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_b2a4cc48d5b5cb4291f652c771864decf7f8a3cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_70eb87b2f28f4aad396c85033dd19fb837ade011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taohong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_53dc54f4ee4cdef6f028944a32b9810bc5eec522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_984460f0b6132752bf3e44d06f1e31e41b2a69c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/taohong/Desktop/AndroidHookStartActivity-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_e1be38991c423fe758d74aa3e6df181d17ddc63c.jar" />
+    </item>
+
+</items>
